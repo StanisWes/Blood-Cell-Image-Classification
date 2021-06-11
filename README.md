@@ -14,3 +14,8 @@
 This was written in Python using Jupyter Notebook.
 Data was downloaded from Kaggle.com, but originates from: 
 [National Library of Medicine](https://ceb.nlm.nih.gov/repositories/malaria-datasets/)
+
+
+**NOTE** 
+The model was re-trained in the code after the report was initially created. 
+Results may be different each time the model is trained, as aspects of it are random.
